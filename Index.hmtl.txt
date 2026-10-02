@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Web GIS Kota Padang</title>
+</head>
+
+<body>
+
+    <h1>Web GIS Kota Padang</h1>
+    <p>Ini adalah web GIS pertama saya.</p>
+
+</body>
+</html>
